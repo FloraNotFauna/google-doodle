@@ -7,3 +7,5 @@ $(window).load(function() {
   $("body").removeClass("preload");
  
 });
+
+onmouseover="window.location.reload()"
